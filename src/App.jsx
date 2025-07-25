@@ -1,4 +1,3 @@
-import reactLogo from './assets/react.svg'
 import { useState,useEffect } from 'react'
 import ThemeBtn from './componets/ThemeBtn'
 import Card from './componets/Card'
