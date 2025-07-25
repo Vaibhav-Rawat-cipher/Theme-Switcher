@@ -3,7 +3,6 @@ import ThemeBtn from './componets/ThemeBtn'
 import Card from './componets/Card'
 import { ThemeProvider } from './context/theme'
 
-import viteLogo from '/vite.svg'
 
 function App() {
 const [themeMode, setTheme] = useState('light');
